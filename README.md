@@ -1,7 +1,8 @@
 # Useful Sites
 
 ## Blogs
-[3Blue1Brown](https://www.3blue1brown.com/)
+
+[3Blue1Brown](https://www.3blue1brown.com/)  
 [Hologrammata](http://rantonels.github.io/)
 [John Baez](https://math.ucr.edu/home/baez/)
 [Riccardo Giannitrapani](http://orporick.github.io)
