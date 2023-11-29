@@ -13,6 +13,7 @@
 * [Astrometry](http://astrometry.net)
 * [BugMeNot](https://bugmenot.com)
 * [Duckduckgo](https://duckduckgo.com)
+* [Have I Been Pwned](https://haveibeenpwned.com)
 * [InternetLiveStats](https://www.internetlivestats.com)
 * [SCIgen](https://pdos.csail.mit.edu/archive/scigen/)
 
