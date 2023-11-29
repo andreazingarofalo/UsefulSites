@@ -1,5 +1,9 @@
 # Useful Sites
 
+## Physics
+
+* [How to become a good Theoretical Physicist](https://goodtheorist.science)
+
 ## Blogs
 * [3Blue1Brown](https://www.3blue1brown.com/)
 * [CARAMELLE di Forcone](https://caramelle.forcone.it)
