@@ -5,8 +5,8 @@
 + [3Blue1Brown](https://www.3blue1brown.com/)  
 + [Hologrammata](http://rantonels.github.io/)
 + [John Baez](https://math.ucr.edu/home/baez/)
-[Riccardo Giannitrapani](http://orporick.github.io)
-[Terry Tao](https://terrytao.wordpress.com)
+* [Riccardo Giannitrapani](http://orporick.github.io)
+* [Terry Tao](https://terrytao.wordpress.com)
 
 ## Miscellanea
 [Astrometry](http://astrometry.net)
