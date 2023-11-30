@@ -19,7 +19,6 @@
 * [Terry Tao](https://terrytao.wordpress.com)
 
 ## Miscellanea
-* [Astrometry.net](http://astrometry.net)
 * [BugMeNot](https://bugmenot.com)
 * [Cost of Living Comparison](https://www.numbeo.com/cost-of-living/comparison.jsp)
 * [EFF Cover Your Tracks](https://coveryourtracks.eff.org)
