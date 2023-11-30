@@ -19,19 +19,16 @@
 * [Terry Tao](https://terrytao.wordpress.com)
 
 ## Miscellanea
-* [Astrometry](http://astrometry.net)
+* [Astrometry.net](http://astrometry.net)
 * [BugMeNot](https://bugmenot.com)
 * [Cost of Living Comparison](https://www.numbeo.com/cost-of-living/comparison.jsp)
-* [Duckduckgo](https://duckduckgo.com)
 * [EFF Cover Your Tracks](https://coveryourtracks.eff.org)
 * [Flood Map](https://www.floodmap.net)
 * [Have I Been Pwned?](https://haveibeenpwned.com)
 * [InternetLiveStats](https://www.internetlivestats.com)
 * [Library of Babel](https://libraryofbabel.info)
-* [pcpartpicker](https://pcpartpicker.com)
 * [SCIgen](https://pdos.csail.mit.edu/archive/scigen/)
 * [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
-* [Sumnotes](https://www.sumnotes.net)
 
 
 
